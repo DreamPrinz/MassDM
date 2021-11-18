@@ -1,8 +1,8 @@
 # MassDM Bot
 Made By @††#7777 | https://discord.gg/raided
 
-- Put your user/bot token in the (massdm.py)
-- Same thing for (message / dm) you want to send to everyone!
+- Put your user/bot token in the (massdm.py).
+- Same thing for (message / dm) you want to send to everyone.
 
 # Features:
 
@@ -11,5 +11,4 @@ Made By @††#7777 | https://discord.gg/raided
 - Easy config!
 - User/bot wont get flagged / banned!
 
-
-Hope you Enjoy!
+# Hope you Enjoy!
