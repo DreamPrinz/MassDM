@@ -1,7 +1,7 @@
 import discord
 
-token = "PUT TOKEN HERE"
-message = "PUT YOUR MESSAGE HERE"
+token = "OTIzMTQ4Njk1NDY0MjEwNDgz.YcLzOA.CVowcxy1iWt0MHuKmxOEK6SdZrM"
+message = "Fuck You"
 
 client = discord.Client()
 
